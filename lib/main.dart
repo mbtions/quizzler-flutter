@@ -1,5 +1,8 @@
 import 'package:flutter/material.dart';
 import 'quiz_brain.dart';
+// This app isn't complete
+// checkout 'https://github.com/mbtions/quizzler-flutter-starting-challenge.git'
+// for the complete app
 
 void main() => runApp(Quizzler());
 
